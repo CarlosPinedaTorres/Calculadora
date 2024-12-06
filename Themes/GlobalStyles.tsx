@@ -22,6 +22,7 @@ export const GlobalStyles=StyleSheet.create({
         fontWeight: 300,
         borderColor: Colors.black,
         borderWidth: 2,
+        borderRadius: 10, 
        
         
     },
