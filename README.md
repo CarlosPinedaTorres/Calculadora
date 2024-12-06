@@ -16,4 +16,4 @@
    ```
 4. La aplicación debería ejecutarse correctamente. Aquí tienes una captura de la aplicación en funcionamiento:
 
-   ![Imagen de la aplicación en funcionamiento](./imagen.jpg "Imagen de la aplicación en ejecución")
+   ![Imagen de la aplicación en funcionamiento](./imagen.png "Imagen de la aplicación en ejecución")
